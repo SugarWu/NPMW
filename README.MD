@@ -8,7 +8,7 @@ curl -L "https://github.com/docker/compose/releases/download/1.11.2/docker-compo
 # Setup NPMW
 1. mkdir {yourfolder} 
 2. cd {yourfolder}
-3. wget npmw.tar.gz
+3. wget https://github.com/SugarWu/NPMW/blob/master/npmw.tar.gz
 4. tar -xzvf npmw.tar.gz
 5. docker-compose up -d
 6. docker exec {yourfolder}_php_1 chown -R www-data:www-data /var/www/html
