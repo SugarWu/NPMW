@@ -1,17 +1,9 @@
 # Centos 7 
 # 1/2 install docker 
-sudo yum install -y yum-utils
-sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
-sudo yum makecache fast
-sudo yum -y install docker-ce
-sudo systemctl start docker
-sudo systemctl enable docker
-sudo docker --version
+sudo yum install -y yum-utils ; sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo ; sudo yum makecache fast ; sudo yum -y install docker-ce ; systemctl start docker ; systemctl enable docker ; docker --version
 
 # 2/2 install docker-compose
-curl -L "https://github.com/docker/compose/releases/download/1.11.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
-chmod +x /usr/local/bin/docker-compose
-docker-compose --version
+curl -L "https://github.com/docker/compose/releases/download/1.11.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose ; chmod +x /usr/local/bin/docker-compose ; docker-compose --version
 
 # Setup NPMW
 1. mkdir <yourfolder> 
