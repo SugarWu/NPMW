@@ -1,3 +1,8 @@
+# linode Promo Code
+https://promo.linode.com/podcastinit/?r=637a37066ce28fc35fbe9fcb300573b3f9ae3584
+±ÀÂË½X(Referral Code) :  637a37066ce28fc35fbe9fcb300573b3f9ae3584
+°e $ 20¬üª÷Àu´f½X(Promo Code): PodcastInIt2017
+
 # Centos 7 
 # 1/2 install docker 
 sudo yum install -y yum-utils wget ; sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo ; sudo yum makecache fast ; sudo yum -y install docker-ce ; systemctl start docker ; systemctl enable docker ; docker --version
