@@ -1,7 +1,7 @@
-# linode Promo Code
+ï»¿# linode Promo Code
 https://promo.linode.com/podcastinit/?r=637a37066ce28fc35fbe9fcb300573b3f9ae3584
-±ÀÂË½X(Referral Code) :  637a37066ce28fc35fbe9fcb300573b3f9ae3584
-°e $ 20¬üª÷Àu´f½X(Promo Code): PodcastInIt2017
+<br>æ¨è–¦ç¢¼(Referral Code) :  637a37066ce28fc35fbe9fcb300573b3f9ae3584
+<br>é€ $ 20ç¾é‡‘å„ªæƒ ç¢¼(Promo Code): PodcastInIt2017
 
 # Centos 7 
 # 1/2 install docker 
